@@ -1,8 +1,8 @@
 {
-  "latest": "1.3.0-CLIENT",
+  "latest": "1.3.1-CLIENT",
   "date": "2026-09-10",
   "url": "https://raw.githubusercontent.com/yarigabbai/eunoupdate/main/eunoautopilot.ino.bin",
-  "md5": "9ce7d7bb6ff777d53ce58df8da646ae0",
+  "md5": "84307dcf846f5a250971bb11b5d23cb6",
   "size": 1593136,
   "notes": "Generato da tools/release.mjs"
 }
