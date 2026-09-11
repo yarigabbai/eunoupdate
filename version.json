@@ -1,6 +1,6 @@
 {
-  "latest": "1.3.8",
-  "date": "2026-09-10",
+  "latest": "1.3.9",
+  "date": "2026-09-11",
   "apk_url": "https://raw.githubusercontent.com/yarigabbai/eunoupdate/main/EUNOapp.apk",
   "notes": "Generato da tools/release.mjs"
 }
