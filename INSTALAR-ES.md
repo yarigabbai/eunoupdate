@@ -50,6 +50,10 @@ esptool.py --chip esp32s3 --port COM4 --baud 921600 write_flash 0x0 euno-firmwar
 Sustituye `COM4` por tu puerto (en Linux o macOS será algo como
 `/dev/ttyUSB0` o `/dev/cu.usbserial-0001`).
 
+Este archivo es una instantánea de la versión 1.3.12 y no se actualiza en cada
+release. No importa: **solo hace falta para la primera grabación**. A partir de
+ahí la placa se actualiza sola desde la aplicación, que siempre ofrece la última.
+
 Si la placa ya tenía otro firmware, conviene borrarla antes:
 
 ```bash
